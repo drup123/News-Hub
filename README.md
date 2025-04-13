@@ -11,9 +11,21 @@ It also features a search functionality so users can easily find and explore the
 - 🕵️‍♂️ Live news fetching using public APIs (optional - if you've used one)
 - 🎨 Built with pure HTML, CSS, and JavaScript
 
-## 🚀 How to Use
 
-1. Clone the repository:
+🛠️ Technologies Used
+  HTML5
+  CSS3
+  JavaScript
+  News API 
 
-```bash
+
+![image](https://github.com/user-attachments/assets/f5081e83-dfee-4eb4-ad9b-0f3431494c68)
+
+
+📬 Contact
+  For any queries or feedback, feel free to reach out!
+  
+  Name: [Drup Patil]
+  
+  GitHub: https://github.com/drup123
 
