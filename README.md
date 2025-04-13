@@ -25,7 +25,7 @@ It also features a search functionality so users can easily find and explore the
 📬 Contact
   For any queries or feedback, feel free to reach out!
   
-  Name: [Drup Patil]
+  Name : [Drup Patil]
   
-  GitHub: https://github.com/drup123
+  Linkedin : https://www.linkedin.com/in/drup-patil-3609b5296/
 
